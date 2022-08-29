@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">practical_3</string>
+    <string name="button_text">Send</string>
+    <string name="SecondActivity_text">SecondActivity</string>
+    <string name="text">send</string>
+
+</resources>
